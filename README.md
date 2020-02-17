@@ -18,9 +18,3 @@ The following figure depicts the framework structure.
 Additional Notes:
 (i) When applying/testing your classification model, you are required to use different window streamming (‘fromDate’ and ‘toDate’) than the one used for training the classification model.
 (ii) The label (categories of the news) must be used only for the training process (always as dependent variable). Furthermore, during testing, the labels can be utilized to report accuracy, recall, and precision for each batch.
-
-Submission:
-You have to upload your submission via e-learning before the due date. Please
-upload the following to eLearning: 1. Source files
-2. Readme file
-3. A short report showing the performance of the classifiers you tested and any further detail of your implementation.
